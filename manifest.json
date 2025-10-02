@@ -1,0 +1,16 @@
+{
+  "version": "1",
+  "name": "Merhaba Mini App",
+  "iconUrl": "https://merhaba-633p.vercel.app/icon.png",
+  "homeUrl": "https://merhaba-633p.vercel.app",
+  "imageUrl": "https://merhaba-633p.vercel.app/image.png",
+  "buttonTitle": "Check this out",
+  "splashImageUrl": "https://merhaba-633p.vercel.app/splash.png",
+  "splashBackgroundColor": "#eeccff",
+  "webhookUrl": "https://merhaba-633p.vercel.app/api/webhook",
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI4NzI4NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEZFNUU1MDgzMDdhYTY2OTk5ZUIxMDhkNTdCRmJmYzAyY2M1QzRkODkifQ",
+    "payload": "eyJkb21haW4iOiJtZXJoYWJhLTYzM3AudmVyY2VsLmFwcCJ9",
+    "signature": "MHg4M2I2NTc5MDNiMzhlNWM0Njg3M2YxYzc2Y2VmZjQyZThjYjdhMGM0YzMxNDY1YzA4Y2Y0N2ExZDIwZTM2YWQyNmI5ODQ1ZmNhNDU5NTcxODk2MWFkM2I1YmQ1ZTczYmJlOTY3NjJkMGZmYzI2M2E3ZTU1NGIyMThiOTc2YmM1MzFj"
+  }
+}
