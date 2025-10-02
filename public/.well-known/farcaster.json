@@ -7,11 +7,11 @@
   "miniapp": {
     "version": "1",
     "name": "Merhaba Dünya",
-    "homeUrl": "https://YOUR-VERCEL-URL.vercel.app",
-    "iconUrl": "https://YOUR-VERCEL-URL.vercel.app/icon.png",
+    "homeUrl": "https://merhaba-633p.vercel.app",
+    "iconUrl": "https://merhaba-633p.vercel.app/icon.png",
     "subtitle": "İlk Mini App'in ✨",
     "description": "Next.js ile Farcaster Mini App denemesi.",
-    "splashImageUrl": "https://YOUR-VERCEL-URL.vercel.app/icon.png",
+    "splashImageUrl": "https://merhaba-633p.vercel.app/icon.png",
     "splashBackgroundColor": "#ffffff",
     "primaryCategory": "developer-tools",
     "tags": ["hello", "demo", "miniapp"]
